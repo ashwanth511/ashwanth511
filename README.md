@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashwanth Kumar</h1>
-<h3 align="center">A passionate frontend developer Interested in created cool stuff that are creative and meets the user needs</h3>
+<h3 align="center">A passionate full stck developer Interested in created cool stuff that are creative and meets the user needs</h3>
 
 <p align="center"> <img src="https://i.ibb.co/0fxqkYf/computer-web-design-concept-72104-2529-removebg-preview.png" alt="ashwanth511" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwanth511&label=Profile%20views&color=0e75b6&style=flat" alt="ashwanth511" /> </p>
