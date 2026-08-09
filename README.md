@@ -84,17 +84,17 @@
 - 🏅 Built and shipped multiple award-winning projects under tight deadlines
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ashwanth511&theme=onedark&no-frame=true&no-bg=false&margin-w=15&margin-h=15&column=4" alt="ashwanth511 trophies" width="80%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ashwanth511&theme=radical&no-frame=false&no-bg=true&margin-w=8&margin-h=8&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="ashwanth511 trophies" width="90%" />
 </p>
 
 ---
 
 ---
 
-### 🐍 Contribution Snake
+### 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ashwanth511/ashwanth511/output/github-contribution-grid-snake.svg" alt="snake contribution graph" width="90%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashwanth511&theme=react-dark&bg_color=0d1117&color=1DA1F2&line=1DA1F2&point=ffffff&area=true&hide_border=true" alt="Ashwanth's contribution activity graph" width="95%" />
 </p>
 
 ---
