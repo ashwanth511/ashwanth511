@@ -32,43 +32,29 @@
 
 <h3 align="left">🔗 Connect with me</h3>
 <p align="left">
-<a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="mailto:ashwanthdreddy@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gmail" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ashwanth-kumar" target="blank"><img align="center" src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="linkedin" height="32" width="32" /></a>&nbsp;&nbsp;
+<a href="mailto:ashwanthdreddy@gmail.com" target="blank"><img align="center" src="https://cdn.simpleicons.org/gmail/EA4335" alt="gmail" height="32" width="32" /></a>&nbsp;&nbsp;
+<a href="https://github.com/ashwanth511" target="blank"><img align="center" src="https://cdn.simpleicons.org/github/ffffff" alt="github" height="32" width="32" /></a>
 </p>
 
 ---
 
 <h3 align="left">🛠️ Languages and Tools</h3>
-<p align="left">
-<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/></a>
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react-native" width="40" height="40"/></a>
-<a href="https://expo.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="expo (electron icon placeholder)" width="40" height="40"/></a>
-<a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/></a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/></a>
-<a href="https://www.framer.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/></a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a>
-<a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
-<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/></a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=rust,react,angular,js,html,css,bootstrap,nodejs,python,c&theme=dark&perline=5" alt="Tech Stack Row 1" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,flask,figma,linux,tensorflow,php,expo,electron,git&theme=dark&perline=5" alt="Tech Stack Row 2" />
 </p>
 
 ---
 
 <h3 align="left">📊 GitHub Stats</h3>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashwanth511&show_icons=true&locale=en&theme=radical&hide_border=true&cache_seconds=1800" alt="ashwanth511 stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashwanth511&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" alt="ashwanth511 top langs" width="49%" />
+  <img src="https://img.shields.io/github/followers/ashwanth511?style=for-the-badge&logo=github&label=Followers&color=1DA1F2&labelColor=0d1117" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/ashwanth511?style=for-the-badge&logo=github&label=Total%20Stars&color=e91e63&labelColor=0d1117" alt="GitHub Stars" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fashwanth511&query=public_repos&style=for-the-badge&logo=github&label=Public%20Repos&color=00C853&labelColor=0d1117" alt="Public Repos" />
 </p>
 
 <p align="center">
