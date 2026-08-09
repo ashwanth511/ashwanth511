@@ -67,24 +67,28 @@
 
 <h3 align="left">📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashwanth511&show_icons=true&locale=en&theme=radical" alt="ashwanth511 stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashwanth511&show_icons=true&locale=en&layout=compact&theme=radical" alt="ashwanth511 top langs" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ashwanth511&show_icons=true&locale=en&theme=radical&hide_border=true&cache_seconds=1800" alt="ashwanth511 stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashwanth511&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" alt="ashwanth511 top langs" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashwanth511&theme=radical" alt="ashwanth511 streak" width="70%" />
+  <img src="https://streak-stats.demolab.com?user=ashwanth511&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="ashwanth511 streak" width="70%" />
 </p>
 
 ---
 
 ### 🏆 Achievements
 
-- 🥇 **GSoC (Google Summer of Code)** contributor
-- 🚀 **8x Hackathon Winner**
-- 🏅 Built and shipped multiple award-winning projects under tight deadlines
+<p align="center">
+  <img src="https://img.shields.io/badge/GSoC-Google%20Summer%20of%20Code-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="GSoC" />
+  <img src="https://img.shields.io/badge/Hackathons-8x%20Winner%20🏆-FFD700?style=for-the-badge&logo=devpost&logoColor=black" alt="Hackathon Winner" />
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-00C853?style=for-the-badge&logo=github&logoColor=white" alt="Open Source" />
+</p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ashwanth511&theme=radical&no-frame=false&no-bg=true&margin-w=8&margin-h=8&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="ashwanth511 trophies" width="90%" />
+  <img src="https://img.shields.io/badge/Full%20Stack-Developer-1DA1F2?style=for-the-badge&logo=react&logoColor=white" alt="Full Stack" />
+  <img src="https://img.shields.io/badge/React%20Native-Mobile%20Dev-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" />
+  <img src="https://img.shields.io/badge/Rust-Systems%20Learner-CE422B?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
 </p>
 
 ---
