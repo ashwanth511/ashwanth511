@@ -1,8 +1,15 @@
-<h1 align="center">Hi there, I'm Ashwanth Kumar 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1DA1F2&height=200&section=header&text=Ashwanth%20Kumar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="header banner"/>
+</p>
+
 <h3 align="center">Full Stack Developer | Building creative, user-focused products</h3>
 
 <p align="center">
-  <img src="https://i.ibb.co/0fxqkYf/computer-web-design-concept-72104-2529-removebg-preview.png" alt="ashwanth511" width="400"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1DA1F2&center=true&vCenter=true&width=500&lines=Learning+Rust+%F0%9F%A6%80;React+Native+%2F+Expo+Developer;GSoC+Contributor;8x+Hackathon+Winner+%F0%9F%8F%86" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://i.ibb.co/0fxqkYf/computer-web-design-concept-72104-2529-removebg-preview.png" alt="ashwanth511" width="350"/>
 </p>
 
 <p align="center">
@@ -82,6 +89,8 @@
 
 ---
 
+---
+
 ### 🐍 Contribution Snake
 
 <p align="center">
@@ -91,3 +100,5 @@
 ---
 
 <p align="center"><i>Thanks for stopping by — always open to collaborating on interesting projects!</i></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1DA1F2,100:0e75b6&height=120&section=footer" alt="footer banner" width="100%"/>
